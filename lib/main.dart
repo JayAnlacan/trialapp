@@ -10,7 +10,7 @@ class IdCard extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.grey[900],
       appBar: AppBar(
-        title: Text('Emperror ID Card'),
+        title: Text('Emperror ID CardSSSS'),
         centerTitle: true,
         backgroundColor: Colors.red[900],
         elevation: 0.0,
